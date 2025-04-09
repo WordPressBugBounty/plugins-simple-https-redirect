@@ -1,8 +1,8 @@
 === Simple HTTPS Redirect ===
 Tags: https, ssl, redirect, force
 Requires at least: 4.0
-Tested up to: 6.6
-Stable tag: 6.6
+Tested up to: 6.8
+Stable tag: 6.8
 Contributors: LightPlugins
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
